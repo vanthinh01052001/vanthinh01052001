@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **vanthinh01052001@gmail.com**
 
-- 📄 Know about my experiences [https://mern-blog-om9w.onrender.com/](https://mern-blog-om9w.onrender.com/)
+- 📄 Know about my experiences [https://mern-blog-om9w.onrender.com/](https://mern-blog-om9w.onrender.com/about)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
