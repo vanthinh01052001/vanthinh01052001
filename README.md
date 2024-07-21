@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Van Thinh</h1>
-<div align="center"><img src="./avt-git.PNG" alt="vanthinh01052001" /></div>
+<div align="center"><img src="./banner-avt.JPG" alt="vanthinh01052001" /></div>
 <h3 align="center">A passionate frontend developer from Viet Nam</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
