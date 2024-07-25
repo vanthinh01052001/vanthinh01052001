@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [mern-blog](https://mern-blog-om9w.onrender.com)
 
-- 🌱 I’m currently learning **react-native**
+- 🌱 I’m currently learning **react.js**
 
-- 👨‍💻 All of my projects are available at [https://mern-blog-om9w.onrender.com/projects](https://mern-blog-om9w.onrender.com/projects)
+- 👨‍💻 All of my projects are available at [https://portfolio-omega-eight-95.vercel.app/projects](https://portfolio-omega-eight-95.vercel.app/projects)
 
 - 📝 I regularly write articles on [https://mern-blog-om9w.onrender.com/](https://mern-blog-om9w.onrender.com/)
 
-- 💬 Ask me about **reactjs**
+- 💬 Ask me about **react.js**
 
 - 📫 How to reach me **vanthinh01052001@gmail.com**
 
