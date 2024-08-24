@@ -5,15 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanthinh01052001&label=Profile%20views&color=0e75b6&style=flat" alt="vanthinh01052001" /> </p>
 
-- 🔭 I’m currently working on [mern-blog](https://mern-blog-om9w.onrender.com)
+- 🔭 I’m currently working at ALTEK Technology Company.
 
 - 🌱 I’m currently learning **react.js**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-omega-eight-95.vercel.app/projects](https://portfolio-omega-eight-95.vercel.app/projects)
-
 - 📫 How to reach me **vanthinh01052001@gmail.com**
-
-- 📄 Know about my experiences [https://mern-blog-om9w.onrender.com/](https://mern-blog-om9w.onrender.com/about)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
