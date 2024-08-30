@@ -8,7 +8,9 @@
 - 🔭 I’m currently working at ALTEK Technology Company.
 
 - 🌱 I’m currently learning **react.js**
-
+  
+- 🔖 My projects: https://www.frontendmentor.io/profile/vanthinh01052001
+  
 - 📫 How to reach me **vanthinh01052001@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
